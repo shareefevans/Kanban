@@ -4,6 +4,8 @@
 
 ## 🚀 Description
 
+the kanban is an project management application that allows users to log into a dashboard, and create, edit, review and delete tickets/tasks that have been assigned in the board across a few different columns/categories to reflect the tickets status.
+
 ### 📋 Table of Contents
 
 - [Installation](#installation)
