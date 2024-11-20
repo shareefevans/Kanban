@@ -1,6 +1,6 @@
 # Kanban
 
-[![Nodemon Version](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.com/package/nodemon) [![Concurrently Version](https://img.shields.io/npm/v/concurrently.svg)](https://www.npmjs.com/package/concurrently) [![wait-on Version](https://img.shields.io/npm/v/wait-on.svg)](https://www.npmjs.com/package/wait-on)
+![bcrypt version](https://img.shields.io/npm/v/bcrypt) ![dotenv version](https://img.shields.io/npm/v/dotenv) ![express version](https://img.shields.io/npm/v/express) ![jsonwebtoken version](https://img.shields.io/npm/v/jsonwebtoken) ![pg version](https://img.shields.io/npm/v/pg) ![sequelize version](https://img.shields.io/npm/v/sequelize) ![concurrently version](https://img.shields.io/npm/v/concurrently) ![nodemon version](https://img.shields.io/npm/v/nodemon) ![wait-on version](https://img.shields.io/npm/v/wait-on) ![vite version](https://img.shields.io/npm/v/vite) ![eslint version](https://img.shields.io/npm/v/eslint)
 
 ## 🚀 Description
 
@@ -35,11 +35,10 @@ npm run start:dev
 
 ## 👍 Usage
 
-1.
-2.
-3.
-4.
-5.
+1. log in using any of the user accounts found in the `seed` files
+2. user is then able to create new tickets
+3. user is able to delete existing tickets
+4. user is able to edit existing tickets
 
 ## ➕ Contributing
 
@@ -47,12 +46,12 @@ npm run start:dev
 
 ## ✅ Tests
 
--
--
--
--
--
--
+- log in with usernaem: `SunnyScribe` and password: `password`
+- create a new tickets
+- label ticket as `test`
+- fill our the content as `testing kanban tickets`
+- create ticket
+- then delete the ticket that you created
 
 ## ❓ Questions
 
@@ -68,6 +67,3 @@ npm run start:dev
 ## 🏆 License
 
 This is an unlicensed project
-
-- [MIT license 01](http://rem.mit-license.org)
-- [MIT license 02](https://raw.githubusercontent.com/jeffbski/wait-on/master/LICENSE)
